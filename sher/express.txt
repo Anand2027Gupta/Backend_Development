@@ -1,0 +1,30 @@
+//Express.js framework
+//Introduction to Express.js 
+Express js ek npm package handling
+framework hai : ek flow mein kaam karna hota hai sab kuch ek flow mein hota hai
+//manages Everything from receiveing the request and Giving Back the response 
+
+
+
+//Setting up a basic Express Applicaion 
+//Routing
+//Middleware
+jab bhi server request accept karta hai wahan se route ke beech pahuchne takk agar aap uss 
+reuqest ke beeech me rokte ho aur kuch perform karte ho toh , toh ye element middleware kahlata hai 
+
+//Request and Response handling
+//Error handling
+
+
+
+//form handling and working with the forms
+handle backend process of forms and making sure the data coming from any frontend lib, framework, templating Engines
+
+Session cookie
+cookie aisha data jo frontend pe save hai 
+session jo connect kiya hai uss data ko
+✅ Cookie
+👉 Cookie wo data hota hai jo frontend (browser) me save hota hai.
+✅ Session
+👉 Session wo data hota hai jo backend (server) pe save hota hai, aur wo cookie ke through connect hota hai.
+ 

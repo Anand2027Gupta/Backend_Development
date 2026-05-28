@@ -1,0 +1,93 @@
+{
+  "cats": {
+    "name": "cats",
+    "followers": 25000,
+    "following": 5,
+    "posts": [
+      {
+        "image": "https://i.pinimg.com/736x/24/58/ed/2458ed5c912423af578888f2bab53031.jpg",
+        "likes": 200,
+        "comments": 17
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnLvA01rQVNJyHQ4IZ-rSQzMl5mYNGAbdoA&s",
+        "likes": 312,
+        "comments": 19
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZbtv9oFC2W0d4AV_Cj_4VWG4BA8lak7R-g&s",
+        "likes": 1065,
+        "comments": 200
+      }
+    ]
+  },
+  "dogs": {
+    "name": "dogs",
+    "followers": 75000,
+    "following": 150,
+    "posts": [
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH32G1AEq-up15-_vmeQH7DDWCwIKb87tpig&s",
+        "likes": 3000,
+        "comments": 41
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCA9GPKfLMAqi66o5q5SLkDyZEPpObcqaU2A&s",
+        "likes": 2500,
+        "comments": 32
+      },
+      {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/golden-retriever-royalty-free-image-506756303-1560962726.jpg?crop=1.00xw:0.756xh;0,0.0756xh&resize=640:*",
+        "likes": 500,
+        "comments": 6
+      }
+    ]
+  }
+  ,
+  "mia": {
+    "name": "mia",
+    "followers": 696969,
+    "following": 6162,
+    "posts": [
+      {
+        "image": "https://i.ebayimg.com/images/g/IG4AAOSwIytgPsiu/s-l1200.jpg",
+        "likes": 3000,
+        "comments": 41
+      },
+      {
+        "image": "https://images-cdn.ubuy.com.om/648ab5cf2f12eb028f1a8734-mia-khalifa-celebrity-actress-8-5-x-11.jpg",
+        "likes": 2500,
+        "comments": 32
+      },
+      {
+        "image": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/68abda4f24d6a7001d77335c.jpg",
+        "likes": 500,
+        "comments": 6
+      }
+    ]
+  }
+   ,
+  "Angella": {
+    "name": "Angella",
+    "followers": 696969,
+    "following": 6162,
+    "posts": [
+      {
+        "image": "https://images-cdn.ubuy.co.in/661e2d0e60a816192b527a06-angela-white-swimsuit-poster-sexy-poster.jpg",
+        "likes": 3000,
+        "comments": 41
+      },
+      {
+        "image": "https://i.ebayimg.com/images/g/JgkAAeSw7vJnxDhF/s-l1600.jpg",
+        "likes": 2500,
+        "comments": 32
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAbhgzeRRDjUoKuTaWKSO0ZJr9YMqR1VLNPg&s",
+        "likes": 500,
+        "comments": 6
+      }
+    ]
+  }
+       
+}

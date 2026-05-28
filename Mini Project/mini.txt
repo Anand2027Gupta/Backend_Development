@@ -1,0 +1,19 @@
+Initialize a project with npm
+express install
+
+
+setting up parsers for from
+
+setting up ejs for ejs pages
+   install ejs for npm
+   set up ejs as a middleware for view engine
+   
+
+setting up public static files 
+
+
+Dynamic Routing 
+    Dynamic Routing 
+   how to get data data coming from backend route
+
+

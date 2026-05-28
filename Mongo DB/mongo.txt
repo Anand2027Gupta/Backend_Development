@@ -1,0 +1,50 @@
+Data Storage:
+   aisa kuch jahan par  hum saare users ki info store kar sakte hai
+   database
+Types of DBS-SQL|NoSQL
+SQL-data ko ek roop mein rakhna -tables
+NoSQL- storing data in objects MongoDB
+
+what and why
+MongoDB Definition:
+MongoDB is an open-source document-oriented database. It is used to store a larger amount of data and also allows you 
+to work with that data. MongoDB is not based on the table-like relational database structure but provides an altogether 
+different mechanism for storage and retrieval of data, that is why known as NoSQL database. Here, the term ‘NoSQL’
+ means ‘non-relational'. The format of storage is called BSON ( similar to JSON format).
+
+terminologies-collections, documents,schemas,keys,models
+Backend Contains two server Application Server and Database Server
+
+
+Database -> Collections -> Document
+CODE
+----------------------------------------------------
+
+
+CODE                  DATABASE
+-----------------------------------------------------
+mongoose.connect -> database create
+model create     -> collections
+CREATE code      -> document 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+MongoDB Features
+  Scalabilty:Uses sharding to distribute data across multiple servers; easily add new machines to expand.
+  Document-Oriented:Stores all related data together in a single, flexible document rather than multiple tables.
+  Indexing:Enables fast queries by avoiding full collection scans, crucial for handling large data efficiently.
+  Replication:Stores multiple data copies on different servers for redundancy and fault tolerance
+  Aggregation:Processes and summarizes data (like SQL GROUP BY) using operations such as sum, avg, min, and max.
+  Flexible schema
+
+------------------------------------------------------------------------------------------------------------------------------------
+Real World Applications of MongoDB:
+  Websites & Apps: Platforms like e-commerce sites use MongoDB to store product catalogs, user profiles, and order histories.
+  Real-Time Analytics: Companies analyze user activity or sales trends on the fly, such as tracking popular products during a sale.
+  Content Management & Personalization: Apps manage dynamic content and personalize recommendations, like suggesting movies based on viewing history.
+  Big Data & IoT: MongoDB handles large volumes of unstructured data from sensors, logs, or social media feeds for processing and insights.
+
+//Mongo Db Installation
+mongo db connection
+schema
+model
+crud
